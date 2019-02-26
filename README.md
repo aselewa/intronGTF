@@ -3,7 +3,7 @@
 
 The `getIntrons.sh` uses gencode GTF annotation files to create an intronic GTF file which is usually unavailable. Running the script is simple. First install the following:
 
-* Install (BEDops)[https://bedops.readthedocs.io/en/latest/index.html]
+* Install [BEDops](https://bedops.readthedocs.io/en/latest/index.html)
 * Install (bedtools)[https://bedtools.readthedocs.io/en/latest/]
 * Annotation files, (gencode human)[https://www.gencodegenes.org/human/] or any annotation in GTF format that contains exon and gene features
 
